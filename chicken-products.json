@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Grilled Chicken Sandwich",
+    "price": 7.99,
+    "category": "Sandwich",
+    "description": "Delicious grilled chicken sandwich with lettuce and tomato.",
+    "imgUrl": "https://example.com/images/grilled-chicken-sandwich.jpg",
+    "hotel": "The Grill House",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.5,
+      "numberOfRatings": 120
+    }
+  },
+  {
+    "name": "Spicy Chicken Wings",
+    "price": 10.99,
+    "category": "Appetizer",
+    "description": "Hot and spicy chicken wings served with ranch dip.",
+    "imgUrl": "https://example.com/images/spicy-chicken-wings.jpg",
+    "hotel": "Wing World",
+    "isFeatured": false,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.7,
+      "numberOfRatings": 250
+    }
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "price": 8.49,
+    "category": "Salad",
+    "description": "Crispy romaine lettuce with grilled chicken and Caesar dressing.",
+    "imgUrl": "https://example.com/images/chicken-caesar-salad.jpg",
+    "hotel": "Healthy Bites",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.3,
+      "numberOfRatings": 80
+    }
+  },
+  {
+    "name": "Fried Chicken Bucket",
+    "price": 15.99,
+    "category": "Main Course",
+    "description": "Crispy fried chicken bucket with sides of mashed potatoes and coleslaw.",
+    "imgUrl": "https://example.com/images/fried-chicken-bucket.jpg",
+    "hotel": "Fried Heaven",
+    "isFeatured": true,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.8,
+      "numberOfRatings": 300
+    }
+  },
+  {
+    "name": "Chicken Alfredo Pasta",
+    "price": 12.99,
+    "category": "Pasta",
+    "description": "Creamy Alfredo pasta with tender chicken pieces and Parmesan.",
+    "imgUrl": "https://example.com/images/chicken-alfredo-pasta.jpg",
+    "hotel": "Pasta Palace",
+    "isFeatured": false,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.6,
+      "numberOfRatings": 150
+    }
+  },
+  {
+    "name": "Honey BBQ Chicken",
+    "price": 13.99,
+    "category": "Main Course",
+    "description": "Tender chicken smothered in honey BBQ sauce.",
+    "imgUrl": "https://example.com/images/honey-bbq-chicken.jpg",
+    "hotel": "BBQ Barn",
+    "isFeatured": true,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.9,
+      "numberOfRatings": 220
+    }
+  },
+  {
+    "name": "Buffalo Chicken Wrap",
+    "price": 8.99,
+    "category": "Wrap",
+    "description": "Spicy buffalo chicken wrapped in a warm tortilla with veggies.",
+    "imgUrl": "https://example.com/images/buffalo-chicken-wrap.jpg",
+    "hotel": "Wrap It Up",
+    "isFeatured": false,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.2,
+      "numberOfRatings": 90
+    }
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "price": 14.99,
+    "category": "Indian",
+    "description": "Chicken marinated in spices and cooked in a creamy tomato sauce.",
+    "imgUrl": "https://example.com/images/chicken-tikka-masala.jpg",
+    "hotel": "Spice Heaven",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.7,
+      "numberOfRatings": 180
+    }
+  },
+  {
+    "name": "Lemon Herb Chicken",
+    "price": 11.49,
+    "category": "Main Course",
+    "description": "Grilled chicken marinated in lemon and herbs.",
+    "imgUrl": "https://example.com/images/lemon-herb-chicken.jpg",
+    "hotel": "Grill & Chill",
+    "isFeatured": false,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.5,
+      "numberOfRatings": 120
+    }
+  },
+  {
+    "name": "Chicken Biryani",
+    "price": 13.49,
+    "category": "Indian",
+    "description": "Aromatic basmati rice cooked with tender chicken and spices.",
+    "imgUrl": "https://example.com/images/chicken-biryani.jpg",
+    "hotel": "Biryani House",
+    "isFeatured": true,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.9,
+      "numberOfRatings": 300
+    }
+  },
+  {
+    "name": "Chicken Quesadilla",
+    "price": 9.99,
+    "category": "Mexican",
+    "description": "Grilled tortilla stuffed with chicken, cheese, and vegetables.",
+    "imgUrl": "https://example.com/images/chicken-quesadilla.jpg",
+    "hotel": "Taco Town",
+    "isFeatured": false,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.3,
+      "numberOfRatings": 80
+    }
+  },
+  {
+    "name": "Chicken Shawarma",
+    "price": 7.99,
+    "category": "Middle Eastern",
+    "description": "Succulent chicken wrapped in pita bread with garlic sauce and pickles.",
+    "imgUrl": "https://example.com/images/chicken-shawarma.jpg",
+    "hotel": "Shawarma King",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.6,
+      "numberOfRatings": 110
+    }
+  },
+  {
+    "name": "Chicken Tenders",
+    "price": 6.99,
+    "category": "Appetizer",
+    "description": "Crispy chicken tenders served with your choice of dipping sauce.",
+    "imgUrl": "https://example.com/images/chicken-tenders.jpg",
+    "hotel": "Snack Shack",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.4,
+      "numberOfRatings": 150
+    }
+  },
+  {
+    "name": "Chicken Katsu",
+    "price": 12.49,
+    "category": "Japanese",
+    "description": "Breaded and fried chicken cutlet served with tonkatsu sauce.",
+    "imgUrl": "https://example.com/images/chicken-katsu.jpg",
+    "hotel": "Sushi World",
+    "isFeatured": false,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.8,
+      "numberOfRatings": 200
+    }
+  },
+  {
+    "name": "Teriyaki Chicken",
+    "price": 11.99,
+    "category": "Japanese",
+    "description": "Grilled chicken glazed with sweet and savory teriyaki sauce.",
+    "imgUrl": "https://example.com/images/teriyaki-chicken.jpg",
+    "hotel": "Sushi World",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.7,
+      "numberOfRatings": 170
+    }
+  },
+  {
+    "name": "Chicken Parmesan",
+    "price": 13.49,
+    "category": "Italian",
+    "description": "Breaded chicken breast topped with marinara and melted mozzarella.",
+    "imgUrl": "https://example.com/images/chicken-parmesan.jpg",
+    "hotel": "Pasta Palace",
+    "isFeatured": false,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.5,
+      "numberOfRatings": 160
+    }
+  },
+  {
+    "name": "Butter Chicken",
+    "price": 14.99,
+    "category": "Indian",
+    "description": "Creamy tomato-based curry with tender chicken pieces.",
+    "imgUrl": "https://example.com/images/butter-chicken.jpg",
+    "hotel": "Spice Heaven",
+    "isFeatured": true,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.9,
+      "numberOfRatings": 210
+    }
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "price": 12.99,
+    "category": "Pizza",
+    "description": "Delicious pizza topped with BBQ chicken, onions, and cilantro.",
+    "imgUrl": "https://example.com/images/bbq-chicken-pizza.jpg",
+    "hotel": "Pizza Paradise",
+    "isFeatured": false,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.8,
+      "numberOfRatings": 130
+    }
+  },
+  {
+    "name": "Chicken Fajitas",
+    "price": 13.99,
+    "category": "Mexican",
+    "description": "Sizzling chicken served with tortillas, guacamole, and salsa.",
+    "imgUrl": "https://example.com/images/chicken-fajitas.jpg",
+    "hotel": "Fajita Fiesta",
+    "isFeatured": true,
+    "isBestDeal": false,
+    "rating": {
+      "averageRating": 4.6,
+      "numberOfRatings": 140
+    }
+  },
+  {
+    "name": "Sweet and Sour Chicken",
+    "price": 10.99,
+    "category": "Chinese",
+    "description": "Fried chicken tossed in a sweet and tangy sauce.",
+    "imgUrl": "https://example.com/images/sweet-and-sour-chicken.jpg",
+    "hotel": "Wok Express",
+    "isFeatured": false,
+    "isBestDeal": true,
+    "rating": {
+      "averageRating": 4.4,
+      "numberOfRatings": 100
+    }
+  }
+]
