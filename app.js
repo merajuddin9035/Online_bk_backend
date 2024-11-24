@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
-app.use(cors({ origin: '*' }));
+const cors = require('cors');
 const bodyParser = require('body-parser');
 const Product = require('./product'); // Assuming the correct product schema
 const authRoutes = require('./routes/Auth');
